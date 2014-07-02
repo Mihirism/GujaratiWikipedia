@@ -1,4 +1,4 @@
 GujaratiWikipedia
 =================
 
-My conurbation on Gujarati wikipedia 
+My contribution on Gujarati Wikipedia 
